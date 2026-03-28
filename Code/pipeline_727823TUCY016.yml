@@ -1,0 +1,15 @@
+project_name: 727823TUCY016_CustomWordlistGenerator
+
+stages:
+  - setup
+  - run
+  - analyze
+
+setup:
+  script: python3 setup_lab.py
+
+run:
+  script: python3 run_tool.py
+
+analyze:
+  script: python3 analyze_results.py
