@@ -2,7 +2,7 @@ Name: Harish Raghav
 Roll Number: 727823TUCY016
 Project Name: Custom Wordlist Generator
 Project Category: Ethical Hacking Tool
-GitHub URL: https://github.com/YOUR_USERNAME/hacker-skct-727823TUCY016
+GitHub URL: https://github.com/raghav28-git/hacker-skct-727823TUCY016
 Total Commits: 7+
 Tools Used: Python, Kali Linux, VirtualBox
 Summary: Generates custom password wordlists.
