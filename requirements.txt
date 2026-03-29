@@ -1,1 +1,27 @@
-python-dateutil==2.8.2
+# requirements.txt
+# student_name : Harish Raghav R
+# roll_number  : 727823TUCY016
+# project_name : Custom Wordlist Generator
+# date         : 2025-03-29
+
+# ── Standard library (no pip install needed, listed for clarity) ──
+# argparse   — built-in
+# itertools  — built-in
+# json       — built-in
+# os         — built-in
+# sys        — built-in
+# datetime   — built-in
+# collections — built-in
+# pathlib    — built-in
+
+# ── Jupyter / notebook ────────────────────────────────────────
+jupyter==1.1.1
+notebook==7.3.3
+ipykernel==6.29.5
+
+# ── Report / documentation ───────────────────────────────────
+matplotlib==3.9.4
+pandas==2.2.3
+
+# ── Dev / testing ────────────────────────────────────────────
+pytest==8.3.5
